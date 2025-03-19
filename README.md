@@ -1,3 +1,3 @@
 # SnakeGameJavaInterpretation
 
-java interpretation of the initial project
+Java interpretation of the initial project. For the sake of interest
